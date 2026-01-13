@@ -1,0 +1,110 @@
+[
+  {
+    "Event": "Paris Haute Couture Week",
+    "City": "Paris",
+    "Country": "France",
+    "Latitude": 48.864716,
+    "Longitude": 2.349014,
+    "Start Date": "2026-01-26",
+    "End Date": "2026-01-29",
+    "Description": "Semaine de la haute couture organisée par la Fédération de la Haute Couture et de la Mode avec des maisons comme Chanel et Maison Margiela, présentant des créations exclusives",
+    "Type": "Mode & haute couture",
+    "Potential": 52428.08
+  },
+  {
+    "Event": "Maison & Objet Paris",
+    "City": "Paris",
+    "Country": "France",
+    "Latitude": 48.864716,
+    "Longitude": 2.349014,
+    "Start Date": "2026-01-15",
+    "End Date": "2026-01-19",
+    "Description": "Salon international du design et de l'art de vivre rassemblant les marques de décoration et de luxe",
+    "Type": "Design & art de vivre",
+    "Potential": 65535.1
+  },
+  {
+    "Event": "BRAFA Art Fair",
+    "City": "Bruxelles",
+    "Country": "Belgique",
+    "Latitude": 50.846,
+    "Longitude": 4.352,
+    "Start Date": "2026-01-25",
+    "End Date": "2026-02-01",
+    "Description": "Foire d’art prestigieuse présentant des œuvres rares allant de l’antiquité au contemporain, réunissant près de 150 galeries de 19 pays",
+    "Type": "Art & antiquités",
+    "Potential": 104856.16
+  },
+  {
+    "Event": "The Luxe Convergence",
+    "City": "Cannes",
+    "Country": "France",
+    "Latitude": 43.552847,
+    "Longitude": 7.017369,
+    "Start Date": "2026-04-14",
+    "End Date": "2026-04-16",
+    "Description": "Conférence haut de gamme réunissant maisons de luxe et innovateurs pour explorer des collaborations cross‑category et stimuler la croissance",
+    "Type": "Conférence luxury",
+    "Potential": 39321.06
+  },
+  {
+    "Event": "Festival d'Aix-en-Provence",
+    "City": "Aix-en-Provence",
+    "Country": "France",
+    "Latitude": 43.528,
+    "Longitude": 5.448,
+    "Start Date": "2026-07-02",
+    "End Date": "2026-07-21",
+    "Description": "Festival d'opéra et de musique classique de renommée internationale",
+    "Type": "Musique & opéra",
+    "Potential": 262140.41
+  },
+  {
+    "Event": "Chorégies d'Orange",
+    "City": "Orange",
+    "Country": "France",
+    "Latitude": 44.137,
+    "Longitude": 4.81,
+    "Start Date": "2026-07-01",
+    "End Date": "2026-08-31",
+    "Description": "Festival d'opéra présenté dans le théâtre antique d’Orange, attirant des mélomanes du monde entier",
+    "Type": "Opéra",
+    "Potential": 812635.28
+  },
+  {
+    "Event": "Festival de Wiltz",
+    "City": "Wiltz",
+    "Country": "Luxembourg",
+    "Latitude": 49.964,
+    "Longitude": 5.936,
+    "Start Date": "2026-06-15",
+    "End Date": "2026-07-15",
+    "Description": "Festival luxembourgeois avec théâtre, opéra, pop et jazz dans un cadre historique, accueillant des artistes internationaux",
+    "Type": "Théâtre & musique",
+    "Potential": 406317.64
+  },
+  {
+    "Event": "Opera Season – La Monnaie",
+    "City": "Bruxelles",
+    "Country": "Belgique",
+    "Latitude": 50.846,
+    "Longitude": 4.352,
+    "Start Date": "2026-01-28",
+    "End Date": "2026-02-17",
+    "Description": "Saison d'opéra 2025-2026 au Royal Opera House La Monnaie, une institution emblématique offrant des représentations d’opéra et de ballet de haut niveau",
+    "Type": "Opéra",
+    "Potential": 275247.43
+  },
+  {
+    "Event": "ILTM Cannes",
+    "City": "Cannes",
+    "Country": "France",
+    "Latitude": 43.552847,
+    "Longitude": 7.017369,
+    "Start Date": "2026-11-30",
+    "End Date": "2026-12-03",
+    "Description": "Salon international du voyage de luxe réunissant des professionnels de l’hôtellerie, du tourisme et des médias pour des rencontres et des partenariats",
+    "Type": "Voyage de luxe",
+    "Potential": 52428.08
+  }
+]
