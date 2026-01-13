@@ -6,3 +6,7 @@ plotly.express
 pydeck
 datetime
 openpyxl
+scikit-learn
+pillow
+torchvision
+torch
